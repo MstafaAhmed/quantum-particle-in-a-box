@@ -1,4 +1,4 @@
-Quantum Particle in a One-Dimensional Box (MATLAB)
+# Quantum Particle in a One-Dimensional Box (MATLAB)
 
 A MATLAB simulation of the one-dimensional quantum particle-in-a-box model based on the time-independent Schrödinger equation.
 This project visualizes normalized wavefunctions, probability density distributions, and quantized energy levels for the first few quantum states of an electron confined inside an infinite potential well.
@@ -12,8 +12,18 @@ Normalized wavefunctions
 Probability density distributions
 Quantized energy levels
 Energy values in electron volts (eV)
+## Learning Outcomes
 
-Applications
+This project demonstrates:
+
+- Schrödinger equation solutions
+- Quantum confinement
+- Standing wave formation
+- Energy quantization
+- Wavefunction normalization
+- Probability interpretation in quantum mechanics
+
+##Applications
 
 This project is useful for learning and teaching:
 Quantum Mechanics
@@ -23,7 +33,7 @@ Quantum Confinement
 Nanotechnology
 Semiconductor Physics
 
-Future Improvements
+##Future Improvements
 Interactive GUI
 Animated wavefunction evolution
 Finite potential well model
