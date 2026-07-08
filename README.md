@@ -3,7 +3,7 @@
 A MATLAB simulation of the one-dimensional quantum particle-in-a-box model based on the time-independent Schrödinger equation.
 This project visualizes normalized wavefunctions, probability density distributions, and quantized energy levels for the first few quantum states of an electron confined inside an infinite potential well.
 
-Project Overview
+%%Project Overview
 
 The particle-in-a-box is one of the most fundamental models in quantum mechanics. It describes a particle confined within an infinitely deep potential well, where the particle can only occupy discrete (quantized) energy levels.
 
@@ -23,7 +23,7 @@ This project demonstrates:
 - Wavefunction normalization
 - Probability interpretation in quantum mechanics
 
-##Applications
+## Applications
 
 This project is useful for learning and teaching:
 Quantum Mechanics
@@ -33,7 +33,7 @@ Quantum Confinement
 Nanotechnology
 Semiconductor Physics
 
-##Future Improvements
+## Future Improvements
 Interactive GUI
 Animated wavefunction evolution
 Finite potential well model
@@ -43,17 +43,17 @@ Numerical solution using finite difference methods
 Comparison with analytical solutions
 
 
-Author
+## Author
 
 Mostafa Ahmed
 
 Physics Teaching Assistant
 Faculty of Engineering, Benha University
 
-Research Interests:
+## Research Interests:
 
-Semiconductor Devices
-Computational Physics
-Quantum Mechanics
+# Semiconductor Devices
+# Computational Physics
+# Quantum Mechanics
 Device Modeling
 MATLAB Simulation
